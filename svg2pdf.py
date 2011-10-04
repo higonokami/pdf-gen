@@ -17,6 +17,8 @@ RESULT_DIR = 'result'
 
 
 def timeit(method):
+    """Dосstring must be here
+    """
 
     def timed(*args, **kw):
         ts = time.time()
