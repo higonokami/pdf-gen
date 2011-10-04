@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="740"
+   height="1100"
+   id="svg2">
+  <defs
+     id="defs18" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g>
+    <text
+       x="220"
+       y="390"
+       xml:space="preserve"
+       style="font-size:10pt;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:middle;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:GOST type A;-inkscape-font-specification:GOST type A">
+        <tspan font-size="10pt" x="316.3" dy="-8px">        57х3,5 ГОСТ 8732-78</tspan>
+        <tspan font-size="10pt" x="316.3" dy="5.5px" >Труба &#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;&#8213;</tspan>
+        <tspan font-size="10pt" x="316.3" dy="6px" >        В20 ГОСТ 8731-74</tspan>
+   </text>
+  </g>
+</svg>
